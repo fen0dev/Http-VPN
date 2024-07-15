@@ -17,7 +17,8 @@ This project is suitable for educational purposes, allowing developers to explor
 
 # How to download and use it
 
-Copy paste this cin your terminal: "git clone <repository_name>"
+Copy paste this in your terminal: 
+"git clone <repository_name>"
 "cd Http-VPN"
 "sudo ./http_vpn_server"
 
