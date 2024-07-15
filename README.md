@@ -17,5 +17,7 @@ This project is suitable for educational purposes, allowing developers to explor
 
 ---------------------------------------------------------------------------------------
 
-Feel free to further customize this description based on specific features or additional functionalities your project offers. This expanded description provides more details about the capabilities and educational value of your project, inviting potential users and contributors to explore and utilize it effectively.
+Feel free to further customize this project as per your need and liking ;)
+
+As always, happy coding!
 
