@@ -16,11 +16,11 @@ The VPN server allows for secure tunneling using either UDP or TCP protocols, fa
 This project is suitable for educational purposes, allowing developers to explore socket programming, network security concepts, and server-side application development in C. It serves as a practical example of implementing both HTTP and VPN server functionalities in a single application.
 
 # How to download and use it
+Copy paste this in your terminal:
 
-Copy paste this in your terminal: 
-"git clone <repository_name>"
-"cd Http-VPN"
-"sudo ./http_vpn_server"
+    git clone https://github.com/fen0dev/Http-VPN.git
+    cd Http-VPN
+    sudo ./http_vpn_server
 
 ---------------------------------------------------------------------------------------
 
